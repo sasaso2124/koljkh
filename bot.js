@@ -4,7 +4,7 @@ const prefix = '!!ak'
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`Alpha Codes `,"")
+client.user.setGame(` `,"")
   console.log('')
   console.log('')
   console.log('╔[═════════════════════════════════════════════════════════════════]╗')
